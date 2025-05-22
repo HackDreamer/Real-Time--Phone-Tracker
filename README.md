@@ -21,7 +21,6 @@ You also need to create an account at OpenCage Geocoder to obtain a free API key
 🔐 OpenCage API Key
 
    To use OpenCage:
-   
     - Sign up at opencagedata.com
     - Get your API key
     - Replace "YOUR_OPENCAGE_API_KEY" in the script with your key
@@ -46,6 +45,7 @@ You also need to create an account at OpenCage Geocoder to obtain a free API key
      Longitude: -119.4179
  
 ⚠️ Disclaimer
+
 This tool provides an approximate geographic location based on the phone number's country code, region, and carrier information. It does not track real-time locations or provide precise GPS coordinates. The location is derived from publicly available telecom metadata and geocoding services, and may not always reflect the phone number’s exact physical location. This tool is intended for educational and informational purposes only. It should not be used for any illegal, unethical, or privacy-invading activities. Always respect privacy and adhere to applicable laws when using such tools.
 
 
