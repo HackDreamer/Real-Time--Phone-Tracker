@@ -22,22 +22,26 @@ You also need to create an account at OpenCage Geocoder to obtain a free API key
 
    To use OpenCage:
    
-    - Sign up at opencagedata.com
-    - Get your API key
-    - Replace "YOUR_OPENCAGE_API_KEY" in the script with your key
+  - Sign up at opencagedata.com
+  - Get your API key
+  - Replace "YOUR_OPENCAGE_API_KEY" in the script with your key
     
-   key = "YOUR_OPENCAGE_API_KEY"
-   geocoder_api = OpenCageGeocode(key)
+   ```python 
+    key = "YOUR_OPENCAGE_API_KEY"
+    geocoder_api = OpenCageGeocode(key)
+   ```
 
 💻 Usage
   1. Run the Script:
-      pythontracker.py
-  2. Input the phone number in international format(eg,.+441632960961).
+     
+         pythontracker.py
+     
+  2. Input the phone number in international format(eg,. `+441632960961`).
   3. The script will:
       - Phares and extraction location details.
       - Use Opencage to get latituted and longitude.
       - Gendrate an HTML map with a marker for the location.
-      - 
+     
 📤 Sample Output
 
      Location: California
