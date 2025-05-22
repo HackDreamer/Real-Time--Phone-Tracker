@@ -11,10 +11,10 @@ This project is a Python-based tool that allows you to trace the approximate loc
 🛠 Requirements
    Install the required Python packages:
    
-  pip install phonenumbers
-  pip install folium
-  pip install geocoder
-  pip install opencage
+    pip install phonenumbers
+    pip install folium
+    pip install geocoder
+    pip install opencage
 
 You also need to create an account at OpenCage Geocoder to obtain a free API key.
 
