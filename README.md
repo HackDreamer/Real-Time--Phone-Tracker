@@ -19,7 +19,9 @@ This project is a Python-based tool that allows you to trace the approximate loc
 You also need to create an account at OpenCage Geocoder to obtain a free API key.
 
 🔐 OpenCage API Key
+
    To use OpenCage:
+   
     - Sign up at opencagedata.com
     - Get your API key
     - Replace "YOUR_OPENCAGE_API_KEY" in the script with your key
@@ -37,6 +39,7 @@ You also need to create an account at OpenCage Geocoder to obtain a free API key
       - Gendrate an HTML map with a marker for the location.
       - 
 📤 Sample Output
+
      Location: California
      Carrier: Verizon Wireless
      Latitude: 36.7783
