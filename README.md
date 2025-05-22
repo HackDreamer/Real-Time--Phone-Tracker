@@ -21,11 +21,13 @@ You also need to create an account at OpenCage Geocoder to obtain a free API key
 🔐 OpenCage API Key
 
    To use OpenCage:
+   
     - Sign up at opencagedata.com
     - Get your API key
     - Replace "YOUR_OPENCAGE_API_KEY" in the script with your key
     
    key = "YOUR_OPENCAGE_API_KEY"
+   
    geocoder_api = OpenCageGeocode(key)
 
 💻 Usage
